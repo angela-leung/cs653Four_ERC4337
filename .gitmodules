@@ -1,0 +1,6 @@
+[submodule "erc4337_frontend"]
+	path = erc4337_frontend
+	url = git@github.com-angela:angela-leung/erc4337_frontend.git
+[submodule "erc4337_sc_subscription"]
+	path = erc4337_sc_subscription
+	url = git@github.com-angela:angela-leung/erc4337_sc_subscription.git
